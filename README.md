@@ -10,3 +10,4 @@ Create a DynamoDB table in AWS with a name of your choice and item_id as Partiti
 ### The module can be installed using the command - pip install boto3
 
 # Result Of The Script:
+![image](https://github.com/abhijithwarrier/PythonToDoAppWithAWSDynamoDB/assets/46685919/df85be96-3ed5-4e8d-b17e-508e9f5b418c)
